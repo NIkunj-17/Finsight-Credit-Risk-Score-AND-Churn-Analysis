@@ -1,0 +1,1 @@
+pipeline = joblib.load("model.joblib")
