@@ -1,0 +1,1002 @@
+[
+  {
+    "Account Number": "4600195597358516",
+    "Loan ID": "c6375356-dec7-43f6-865f-8aa439e35f40",
+    "Loan Type": "auto",
+    "Requested Amount": 2403697.7,
+    "Interest Rate": 7.19,
+    "Application Date": "2024-03-15",
+    "Status": "approved",
+    "Approval Date": "2024-08-27"
+  },
+  {
+    "Account Number": "48799799610099",
+    "Loan ID": "4e3dc51a-de26-48bc-9062-f91a805407a1",
+    "Loan Type": "auto",
+    "Requested Amount": 187454.73,
+    "Interest Rate": 10.15,
+    "Application Date": "2024-05-04",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "846124860830606",
+    "Loan ID": "8591913d-ba00-426b-8bfe-0a68f688a593",
+    "Loan Type": "auto",
+    "Requested Amount": 4966259.51,
+    "Interest Rate": 10.54,
+    "Application Date": "2024-05-21",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "814245540395363",
+    "Loan ID": "6e551275-e33f-4dd6-a1ea-b1d95ca8134d",
+    "Loan Type": "home",
+    "Requested Amount": 605661.1,
+    "Interest Rate": 10.94,
+    "Application Date": "2024-06-24",
+    "Status": "approved",
+    "Approval Date": "2024-04-13"
+  },
+  {
+    "Account Number": "8103502023925627",
+    "Loan ID": "28541aab-f30a-48d4-9c86-caebd3bbce9e",
+    "Loan Type": "auto",
+    "Requested Amount": 1243217.83,
+    "Interest Rate": 6.13,
+    "Application Date": "2024-08-09",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "325410463289701",
+    "Loan ID": "f9fc8809-1324-427b-88e5-2ef4cd61e405",
+    "Loan Type": "auto",
+    "Requested Amount": 833269.48,
+    "Interest Rate": 9.79,
+    "Application Date": "2024-08-21",
+    "Status": "approved",
+    "Approval Date": "2024-05-21"
+  },
+  {
+    "Account Number": "4583119338320306",
+    "Loan ID": "b2605877-2177-4d42-b6b8-8c5bf8e67b87",
+    "Loan Type": "home",
+    "Requested Amount": 4592521.77,
+    "Interest Rate": 11.64,
+    "Application Date": "2024-01-11",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "96503441533769",
+    "Loan ID": "87224db3-c280-4aea-9064-993faddda36e",
+    "Loan Type": "personal",
+    "Requested Amount": 3210004.6,
+    "Interest Rate": 10.91,
+    "Application Date": "2024-02-13",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "3083680800414229",
+    "Loan ID": "7d0ed273-8c1a-4649-a7d5-1b608b66937b",
+    "Loan Type": "home",
+    "Requested Amount": 1344736.01,
+    "Interest Rate": 9.45,
+    "Application Date": "2024-05-14",
+    "Status": "approved",
+    "Approval Date": "2024-06-01"
+  },
+  {
+    "Account Number": "73353601278637",
+    "Loan ID": "e9f2a378-6d10-4467-87b5-0f6184d58f45",
+    "Loan Type": "home",
+    "Requested Amount": 4174344.3,
+    "Interest Rate": 6.93,
+    "Application Date": "2024-01-12",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "413117950196838",
+    "Loan ID": "de97a541-1fdb-4f7a-97b9-48360e669d69",
+    "Loan Type": "home",
+    "Requested Amount": 975390.25,
+    "Interest Rate": 8.82,
+    "Application Date": "2024-10-20",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "054758912581365",
+    "Loan ID": "a72cf0e0-5ec9-4039-a6fa-a89528fd493b",
+    "Loan Type": "home",
+    "Requested Amount": 4022132.16,
+    "Interest Rate": 14.39,
+    "Application Date": "2024-03-19",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "843509736601414",
+    "Loan ID": "e3157ef0-5cb0-4809-8dae-44b37cd9e3c8",
+    "Loan Type": "auto",
+    "Requested Amount": 279352.27,
+    "Interest Rate": 10.44,
+    "Application Date": "2024-03-15",
+    "Status": "approved",
+    "Approval Date": "2024-05-14"
+  },
+  {
+    "Account Number": "0554333711232896",
+    "Loan ID": "d358fcea-60dc-4887-bc27-1e6084587e7a",
+    "Loan Type": "personal",
+    "Requested Amount": 3968157.7,
+    "Interest Rate": 14.42,
+    "Application Date": "2024-02-29",
+    "Status": "approved",
+    "Approval Date": "2024-10-01"
+  },
+  {
+    "Account Number": "2608976152380337",
+    "Loan ID": "6ec844bd-cf5c-4955-8d81-f53d6a860104",
+    "Loan Type": "auto",
+    "Requested Amount": 1072324.32,
+    "Interest Rate": 11.65,
+    "Application Date": "2024-02-22",
+    "Status": "approved",
+    "Approval Date": "2024-06-25"
+  },
+  {
+    "Account Number": "9113559393732065",
+    "Loan ID": "9ed67244-b97e-46f3-9508-d572dbda95df",
+    "Loan Type": "personal",
+    "Requested Amount": 1835338.93,
+    "Interest Rate": 11.01,
+    "Application Date": "2024-03-01",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "3318666569014512",
+    "Loan ID": "018e055b-0302-43d7-a159-44e2d2187722",
+    "Loan Type": "personal",
+    "Requested Amount": 2002492.13,
+    "Interest Rate": 9.84,
+    "Application Date": "2024-01-30",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "940872916029003",
+    "Loan ID": "8d65a523-c030-4186-b893-cec29e9e0d60",
+    "Loan Type": "home",
+    "Requested Amount": 2940793.96,
+    "Interest Rate": 14.45,
+    "Application Date": "2024-10-22",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "26494822171645",
+    "Loan ID": "16623b04-45d7-4ade-869c-9c8ac72993e0",
+    "Loan Type": "personal",
+    "Requested Amount": 994245.23,
+    "Interest Rate": 10.77,
+    "Application Date": "2024-05-16",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "945007533693634",
+    "Loan ID": "990e10d0-0914-47c2-8604-6310b83a8f3e",
+    "Loan Type": "auto",
+    "Requested Amount": 4100048.83,
+    "Interest Rate": 11.76,
+    "Application Date": "2024-05-21",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "8488724204305572",
+    "Loan ID": "d613aa1c-bb39-4346-b99e-0f4b458f85d8",
+    "Loan Type": "personal",
+    "Requested Amount": 2901709.92,
+    "Interest Rate": 6.79,
+    "Application Date": "2024-10-18",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "337509532111292",
+    "Loan ID": "6d87bf9c-062a-49ec-a975-ea38f35f7d86",
+    "Loan Type": "auto",
+    "Requested Amount": 1215472.54,
+    "Interest Rate": 11.29,
+    "Application Date": "2024-08-19",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "698965281490820",
+    "Loan ID": "a5d6b828-0ee6-4e51-b3a9-9d90838c996a",
+    "Loan Type": "home",
+    "Requested Amount": 2045715.48,
+    "Interest Rate": 13.39,
+    "Application Date": "2024-07-27",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "490593302170247",
+    "Loan ID": "473ef568-bebc-41bf-8024-03f8a8514757",
+    "Loan Type": "auto",
+    "Requested Amount": 4889403.77,
+    "Interest Rate": 7.03,
+    "Application Date": "2024-05-18",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "14571287567016",
+    "Loan ID": "f77e5765-0a1e-412a-a9a1-aff673a06c41",
+    "Loan Type": "personal",
+    "Requested Amount": 2389056.12,
+    "Interest Rate": 11.89,
+    "Application Date": "2024-03-02",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "7630765070915602",
+    "Loan ID": "55763dce-3f9b-416e-8465-e2739a9ba1a6",
+    "Loan Type": "auto",
+    "Requested Amount": 746057.46,
+    "Interest Rate": 8.01,
+    "Application Date": "2024-08-05",
+    "Status": "approved",
+    "Approval Date": "2024-08-07"
+  },
+  {
+    "Account Number": "584977481613527",
+    "Loan ID": "7572cdf6-f0f6-40fb-9912-c3836041fc06",
+    "Loan Type": "personal",
+    "Requested Amount": 3845525.77,
+    "Interest Rate": 8.44,
+    "Application Date": "2024-04-13",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "9082705994907454",
+    "Loan ID": "358857ec-0910-4491-b294-4300446b5706",
+    "Loan Type": "home",
+    "Requested Amount": 429011.78,
+    "Interest Rate": 12.99,
+    "Application Date": "2024-04-11",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "79452690110240",
+    "Loan ID": "bdecd0f3-1f77-41fb-9dee-bd50437dc520",
+    "Loan Type": "personal",
+    "Requested Amount": 369489.92,
+    "Interest Rate": 11.53,
+    "Application Date": "2024-01-07",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "455399778101521",
+    "Loan ID": "d8399fc4-a785-43f6-a7bc-33255062d9f7",
+    "Loan Type": "personal",
+    "Requested Amount": 3312673.06,
+    "Interest Rate": 11.73,
+    "Application Date": "2024-04-05",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "457980810029655",
+    "Loan ID": "02fcc414-3f2a-4c1e-bcc3-f7d3f7daa97d",
+    "Loan Type": "home",
+    "Requested Amount": 3082659.33,
+    "Interest Rate": 11.7,
+    "Application Date": "2024-10-09",
+    "Status": "approved",
+    "Approval Date": "2024-10-07"
+  },
+  {
+    "Account Number": "59598902093294",
+    "Loan ID": "62b1b92d-588a-47d4-b4a8-cebb1db3b712",
+    "Loan Type": "personal",
+    "Requested Amount": 1309361.16,
+    "Interest Rate": 13.58,
+    "Application Date": "2024-07-19",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "116531494973164",
+    "Loan ID": "f2501922-fbc2-4862-98d2-c055cc69c6a7",
+    "Loan Type": "auto",
+    "Requested Amount": 3575648.23,
+    "Interest Rate": 9.43,
+    "Application Date": "2024-07-02",
+    "Status": "approved",
+    "Approval Date": "2024-10-22"
+  },
+  {
+    "Account Number": "373141553662678",
+    "Loan ID": "322d79e9-8dac-4bb9-a62e-f9d9b6baf652",
+    "Loan Type": "personal",
+    "Requested Amount": 2530905.69,
+    "Interest Rate": 11.05,
+    "Application Date": "2024-02-01",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "2113774035804763",
+    "Loan ID": "249bf313-2920-437a-8061-cbee23b5f2b6",
+    "Loan Type": "auto",
+    "Requested Amount": 4438953.08,
+    "Interest Rate": 12.63,
+    "Application Date": "2024-09-28",
+    "Status": "approved",
+    "Approval Date": "2024-03-09"
+  },
+  {
+    "Account Number": "047205240188765",
+    "Loan ID": "cbdc91a6-13e3-4a2f-8a8c-170baf03a596",
+    "Loan Type": "home",
+    "Requested Amount": 339824.89,
+    "Interest Rate": 8.36,
+    "Application Date": "2024-10-30",
+    "Status": "approved",
+    "Approval Date": "2024-08-01"
+  },
+  {
+    "Account Number": "83874147018898",
+    "Loan ID": "3fc528e8-e9a9-4296-b09f-1c2fd9fd113e",
+    "Loan Type": "home",
+    "Requested Amount": 3856624.01,
+    "Interest Rate": 5.1,
+    "Application Date": "2024-07-27",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "980981183847569",
+    "Loan ID": "9ea0b89f-78a0-4bb3-8045-835ae637cdfd",
+    "Loan Type": "home",
+    "Requested Amount": 2800470.88,
+    "Interest Rate": 13.6,
+    "Application Date": "2024-02-21",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "24106990948201",
+    "Loan ID": "ddd8ecfd-ba85-4177-ae40-6027844d3b63",
+    "Loan Type": "home",
+    "Requested Amount": 3520150.02,
+    "Interest Rate": 13.79,
+    "Application Date": "2024-04-13",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "54730355842140",
+    "Loan ID": "26a88816-3c73-4897-9fd5-bacdedeb7f8d",
+    "Loan Type": "personal",
+    "Requested Amount": 993295.94,
+    "Interest Rate": 11.72,
+    "Application Date": "2024-03-13",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "77704660270449",
+    "Loan ID": "759ab455-0303-4bd7-b4fd-12a77c1e28dc",
+    "Loan Type": "auto",
+    "Requested Amount": 2650828.19,
+    "Interest Rate": 8.27,
+    "Application Date": "2024-06-20",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "964695114111401",
+    "Loan ID": "a8c0aa8e-c19d-4a57-8203-bef399481b0c",
+    "Loan Type": "home",
+    "Requested Amount": 922270.07,
+    "Interest Rate": 14.45,
+    "Application Date": "2024-10-20",
+    "Status": "approved",
+    "Approval Date": "2024-08-16"
+  },
+  {
+    "Account Number": "7254156056921863",
+    "Loan ID": "38572cde-cc95-4d26-ba43-d361119511e5",
+    "Loan Type": "auto",
+    "Requested Amount": 4961484.43,
+    "Interest Rate": 6.17,
+    "Application Date": "2024-01-29",
+    "Status": "approved",
+    "Approval Date": "2024-08-11"
+  },
+  {
+    "Account Number": "0747629901085700",
+    "Loan ID": "02ed3a8b-03f6-413a-a1f9-a0cdd42353a9",
+    "Loan Type": "home",
+    "Requested Amount": 601169.4,
+    "Interest Rate": 7.88,
+    "Application Date": "2024-08-22",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "4126075553701263",
+    "Loan ID": "a26e309c-faff-4d19-bcf1-0455a1a4110a",
+    "Loan Type": "personal",
+    "Requested Amount": 540605.85,
+    "Interest Rate": 11.37,
+    "Application Date": "2024-03-08",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "415093561451109",
+    "Loan ID": "62d8392e-e1b6-4600-86a4-c0562f156a5c",
+    "Loan Type": "auto",
+    "Requested Amount": 1709822.02,
+    "Interest Rate": 10.62,
+    "Application Date": "2024-11-01",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "327849276998168",
+    "Loan ID": "dcc07e4b-a778-42bc-aa13-26dc9fbf1df5",
+    "Loan Type": "home",
+    "Requested Amount": 518463.79,
+    "Interest Rate": 10.46,
+    "Application Date": "2024-06-03",
+    "Status": "approved",
+    "Approval Date": "2024-10-17"
+  },
+  {
+    "Account Number": "64452999047480",
+    "Loan ID": "8831f57a-1489-48cd-b0fd-de91c3fc4ed2",
+    "Loan Type": "personal",
+    "Requested Amount": 3860832.22,
+    "Interest Rate": 6.98,
+    "Application Date": "2024-01-17",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "5166280614177761",
+    "Loan ID": "37d178e9-1a33-4292-968c-33d8378c3853",
+    "Loan Type": "personal",
+    "Requested Amount": 3896357.75,
+    "Interest Rate": 6.77,
+    "Application Date": "2024-10-09",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "88416301575559",
+    "Loan ID": "b6576c83-bdc8-4b8b-ae7f-5cb9dc2648a6",
+    "Loan Type": "auto",
+    "Requested Amount": 3350703.33,
+    "Interest Rate": 9.73,
+    "Application Date": "2024-07-19",
+    "Status": "approved",
+    "Approval Date": "2024-01-01"
+  },
+  {
+    "Account Number": "3754371685464831",
+    "Loan ID": "c33c53f0-1e38-41de-9edf-734a99091b6b",
+    "Loan Type": "home",
+    "Requested Amount": 3335202.37,
+    "Interest Rate": 14.46,
+    "Application Date": "2024-10-21",
+    "Status": "approved",
+    "Approval Date": "2024-02-11"
+  },
+  {
+    "Account Number": "956219492921275",
+    "Loan ID": "ab46c835-fec6-4df6-8de7-8a22f8f73bf3",
+    "Loan Type": "home",
+    "Requested Amount": 330629.87,
+    "Interest Rate": 6.3,
+    "Application Date": "2024-04-29",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "5869592878452429",
+    "Loan ID": "b87dc2f6-f09e-4d5b-ab62-a737c104e0d7",
+    "Loan Type": "home",
+    "Requested Amount": 3930387.02,
+    "Interest Rate": 12.77,
+    "Application Date": "2024-01-04",
+    "Status": "approved",
+    "Approval Date": "2024-03-13"
+  },
+  {
+    "Account Number": "69474784650646",
+    "Loan ID": "9267912a-6327-4242-882e-d7fe8004f615",
+    "Loan Type": "home",
+    "Requested Amount": 2561522.38,
+    "Interest Rate": 8.53,
+    "Application Date": "2024-06-21",
+    "Status": "approved",
+    "Approval Date": "2024-02-15"
+  },
+  {
+    "Account Number": "293102438404068",
+    "Loan ID": "373963fd-0df6-44cf-9b81-7989070f091f",
+    "Loan Type": "personal",
+    "Requested Amount": 4671278.58,
+    "Interest Rate": 12.93,
+    "Application Date": "2024-04-12",
+    "Status": "approved",
+    "Approval Date": "2024-09-02"
+  },
+  {
+    "Account Number": "30613171067554",
+    "Loan ID": "74bff39f-f99a-42b2-a6e7-c9b843d5c06a",
+    "Loan Type": "home",
+    "Requested Amount": 4310459.89,
+    "Interest Rate": 5.04,
+    "Application Date": "2024-09-25",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "7434955201989989",
+    "Loan ID": "76904fbf-e01f-490d-bcd3-6d437bacf912",
+    "Loan Type": "personal",
+    "Requested Amount": 3848504.15,
+    "Interest Rate": 13.54,
+    "Application Date": "2024-04-29",
+    "Status": "approved",
+    "Approval Date": "2024-07-31"
+  },
+  {
+    "Account Number": "74809071774958",
+    "Loan ID": "62d9cc08-c11d-4fe2-bb07-21ffb1620985",
+    "Loan Type": "home",
+    "Requested Amount": 2724356.12,
+    "Interest Rate": 8.8,
+    "Application Date": "2024-10-25",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "004821109217816",
+    "Loan ID": "ac7551af-e46a-4837-8965-b6e1e6c57caa",
+    "Loan Type": "personal",
+    "Requested Amount": 2932356.8,
+    "Interest Rate": 7.99,
+    "Application Date": "2024-03-25",
+    "Status": "approved",
+    "Approval Date": "2024-04-01"
+  },
+  {
+    "Account Number": "094621717313131",
+    "Loan ID": "bd03fb30-942d-4b95-a949-cac025932adf",
+    "Loan Type": "home",
+    "Requested Amount": 2771315.86,
+    "Interest Rate": 11.62,
+    "Application Date": "2024-05-14",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "514678706609981",
+    "Loan ID": "2239977c-3f75-4804-9568-82f8b397e156",
+    "Loan Type": "home",
+    "Requested Amount": 1459794.48,
+    "Interest Rate": 10.95,
+    "Application Date": "2024-01-29",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "9386193812574258",
+    "Loan ID": "b0e401a8-810f-4b3c-80ab-99a24133a5cc",
+    "Loan Type": "home",
+    "Requested Amount": 2347237.09,
+    "Interest Rate": 7.25,
+    "Application Date": "2024-09-24",
+    "Status": "approved",
+    "Approval Date": "2024-07-21"
+  },
+  {
+    "Account Number": "6457589320523012",
+    "Loan ID": "f3c9943f-05e0-4411-8884-868b27959b06",
+    "Loan Type": "auto",
+    "Requested Amount": 322195.79,
+    "Interest Rate": 10.47,
+    "Application Date": "2024-01-03",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "991939986447961",
+    "Loan ID": "2b30e220-9377-4386-9c34-f5c7c3f63dc2",
+    "Loan Type": "auto",
+    "Requested Amount": 4740117.27,
+    "Interest Rate": 12.54,
+    "Application Date": "2024-05-08",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "02416331568222",
+    "Loan ID": "bf61ebfd-7607-4de5-aab1-16f414173db4",
+    "Loan Type": "personal",
+    "Requested Amount": 3049718.69,
+    "Interest Rate": 13.28,
+    "Application Date": "2024-07-01",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "07431283978556",
+    "Loan ID": "346c39b9-2aca-4c23-94a0-584b54a58887",
+    "Loan Type": "personal",
+    "Requested Amount": 276960.57,
+    "Interest Rate": 14.17,
+    "Application Date": "2024-07-20",
+    "Status": "approved",
+    "Approval Date": "2024-09-25"
+  },
+  {
+    "Account Number": "80821763094324",
+    "Loan ID": "a538e31c-8548-4134-9590-69b05e81390f",
+    "Loan Type": "auto",
+    "Requested Amount": 3922275.12,
+    "Interest Rate": 10.64,
+    "Application Date": "2024-08-10",
+    "Status": "approved",
+    "Approval Date": "2024-05-26"
+  },
+  {
+    "Account Number": "10968639096997",
+    "Loan ID": "96d9ba72-5bcf-4633-ac44-69c6ab86f5ca",
+    "Loan Type": "auto",
+    "Requested Amount": 3749903.37,
+    "Interest Rate": 14.76,
+    "Application Date": "2024-03-17",
+    "Status": "approved",
+    "Approval Date": "2024-06-10"
+  },
+  {
+    "Account Number": "67211019201345",
+    "Loan ID": "b35a0dbe-0d56-40d8-a0d7-6520e4dd2e81",
+    "Loan Type": "personal",
+    "Requested Amount": 2674768.36,
+    "Interest Rate": 8.21,
+    "Application Date": "2024-03-20",
+    "Status": "approved",
+    "Approval Date": "2024-10-13"
+  },
+  {
+    "Account Number": "0176681648985809",
+    "Loan ID": "da0929ee-f875-4355-9ccf-1817ea336d5b",
+    "Loan Type": "home",
+    "Requested Amount": 2230309.89,
+    "Interest Rate": 8.27,
+    "Application Date": "2024-06-30",
+    "Status": "approved",
+    "Approval Date": "2024-07-15"
+  },
+  {
+    "Account Number": "616255411780782",
+    "Loan ID": "5c1cbbf2-70af-4fc9-a81e-1aad17202753",
+    "Loan Type": "personal",
+    "Requested Amount": 340286.53,
+    "Interest Rate": 8.98,
+    "Application Date": "2024-06-30",
+    "Status": "approved",
+    "Approval Date": "2024-03-07"
+  },
+  {
+    "Account Number": "9855562545050909",
+    "Loan ID": "c5e53f85-36ed-4579-829d-747660eb3d84",
+    "Loan Type": "auto",
+    "Requested Amount": 3093367.89,
+    "Interest Rate": 8.34,
+    "Application Date": "2024-08-08",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "72829397393156",
+    "Loan ID": "58b4b9af-0d37-4a36-9383-5fda5ac2d414",
+    "Loan Type": "home",
+    "Requested Amount": 4791284.29,
+    "Interest Rate": 9.05,
+    "Application Date": "2024-05-20",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "387986966693279",
+    "Loan ID": "b05c9b15-9a5d-42e8-96cf-133ecfcc7a50",
+    "Loan Type": "home",
+    "Requested Amount": 1203873.89,
+    "Interest Rate": 5.07,
+    "Application Date": "2024-05-16",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "998992365855023",
+    "Loan ID": "e08f98b3-27ee-41f1-b290-6345b546de87",
+    "Loan Type": "home",
+    "Requested Amount": 2637680.96,
+    "Interest Rate": 6.32,
+    "Application Date": "2024-08-15",
+    "Status": "approved",
+    "Approval Date": "2024-02-05"
+  },
+  {
+    "Account Number": "149168839099153",
+    "Loan ID": "28a2aff9-8f05-4334-a862-9803244e9348",
+    "Loan Type": "personal",
+    "Requested Amount": 2630049.84,
+    "Interest Rate": 6.77,
+    "Application Date": "2024-06-17",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "46881724349352",
+    "Loan ID": "cbe5a6b9-2194-49a1-a3af-aaa99890f92b",
+    "Loan Type": "personal",
+    "Requested Amount": 4500861.86,
+    "Interest Rate": 10.52,
+    "Application Date": "2024-05-18",
+    "Status": "approved",
+    "Approval Date": "2024-06-09"
+  },
+  {
+    "Account Number": "8281990809233723",
+    "Loan ID": "45962ef7-1fae-4f78-a994-12c695994ff5",
+    "Loan Type": "home",
+    "Requested Amount": 3549557.7,
+    "Interest Rate": 9.62,
+    "Application Date": "2024-02-10",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "7701280583650322",
+    "Loan ID": "9f7105dd-403f-4906-869f-3d86ae30bba3",
+    "Loan Type": "auto",
+    "Requested Amount": 763150.78,
+    "Interest Rate": 6.56,
+    "Application Date": "2024-05-09",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "877309632449447",
+    "Loan ID": "edde38a2-5aa2-49fb-a6dd-0509bd16f674",
+    "Loan Type": "auto",
+    "Requested Amount": 3112694.12,
+    "Interest Rate": 7.69,
+    "Application Date": "2024-09-26",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "8854101973010621",
+    "Loan ID": "bcd77c65-477d-4481-97bd-94c874f16b73",
+    "Loan Type": "personal",
+    "Requested Amount": 3345218.12,
+    "Interest Rate": 12.24,
+    "Application Date": "2024-08-13",
+    "Status": "approved",
+    "Approval Date": "2024-01-25"
+  },
+  {
+    "Account Number": "83443823841821",
+    "Loan ID": "cf9bc955-7ebd-4c9d-9672-7b85b067f2ff",
+    "Loan Type": "personal",
+    "Requested Amount": 1774554.75,
+    "Interest Rate": 8.37,
+    "Application Date": "2024-06-29",
+    "Status": "approved",
+    "Approval Date": "2024-06-26"
+  },
+  {
+    "Account Number": "5229325045195567",
+    "Loan ID": "14c33a41-a099-456f-bfc6-0f8a940e5ef1",
+    "Loan Type": "personal",
+    "Requested Amount": 1441820.34,
+    "Interest Rate": 8.31,
+    "Application Date": "2024-01-02",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "724053531007192",
+    "Loan ID": "10232d05-b23f-4df2-91ad-d6022733ce85",
+    "Loan Type": "personal",
+    "Requested Amount": 4848337.02,
+    "Interest Rate": 11.27,
+    "Application Date": "2024-01-22",
+    "Status": "approved",
+    "Approval Date": "2024-01-08"
+  },
+  {
+    "Account Number": "20198225845288",
+    "Loan ID": "f6994061-9b61-40c6-bc87-a7c17e6d5079",
+    "Loan Type": "auto",
+    "Requested Amount": 2981328.47,
+    "Interest Rate": 7.12,
+    "Application Date": "2024-09-12",
+    "Status": "approved",
+    "Approval Date": "2024-01-07"
+  },
+  {
+    "Account Number": "540519329282054",
+    "Loan ID": "fe7cb331-bf6f-40ca-b66c-9873b826ceb2",
+    "Loan Type": "auto",
+    "Requested Amount": 2880765.94,
+    "Interest Rate": 14.73,
+    "Application Date": "2024-10-18",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "29474226759479",
+    "Loan ID": "abf2b22a-1de8-4e83-9dd4-e4dbdf39d65d",
+    "Loan Type": "personal",
+    "Requested Amount": 2970103.71,
+    "Interest Rate": 11.0,
+    "Application Date": "2024-04-08",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "5471215753186009",
+    "Loan ID": "dbb48839-5463-4379-844e-eb8a1c058920",
+    "Loan Type": "home",
+    "Requested Amount": 1480143.51,
+    "Interest Rate": 7.23,
+    "Application Date": "2024-05-20",
+    "Status": "approved",
+    "Approval Date": "2024-03-31"
+  },
+  {
+    "Account Number": "4697102148142301",
+    "Loan ID": "17f6fac7-c4db-4777-880b-917151ae39b7",
+    "Loan Type": "auto",
+    "Requested Amount": 3981262.59,
+    "Interest Rate": 8.97,
+    "Application Date": "2024-07-11",
+    "Status": "approved",
+    "Approval Date": "2024-02-26"
+  },
+  {
+    "Account Number": "446020931495156",
+    "Loan ID": "9581ad8c-167f-44d4-a26d-539dee1a4d67",
+    "Loan Type": "personal",
+    "Requested Amount": 4094965.77,
+    "Interest Rate": 11.49,
+    "Application Date": "2024-04-28",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "9864830983399249",
+    "Loan ID": "b488dad1-7606-46fd-9fea-171a05c735d7",
+    "Loan Type": "personal",
+    "Requested Amount": 1116056.42,
+    "Interest Rate": 14.73,
+    "Application Date": "2024-07-24",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "68861966438568",
+    "Loan ID": "430936e6-c7db-4818-958d-81cc5f9d9640",
+    "Loan Type": "personal",
+    "Requested Amount": 4587837.68,
+    "Interest Rate": 10.9,
+    "Application Date": "2024-04-15",
+    "Status": "pending",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "6258624429294427",
+    "Loan ID": "c3855aca-e035-4170-bdb2-06dd0974df51",
+    "Loan Type": "auto",
+    "Requested Amount": 4780480.06,
+    "Interest Rate": 8.38,
+    "Application Date": "2024-06-24",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "2582541760013598",
+    "Loan ID": "35ceb0a5-eb2e-441c-8a57-017f56812842",
+    "Loan Type": "personal",
+    "Requested Amount": 1912934.56,
+    "Interest Rate": 13.33,
+    "Application Date": "2024-06-17",
+    "Status": "approved",
+    "Approval Date": "2024-05-08"
+  },
+  {
+    "Account Number": "598534226791581",
+    "Loan ID": "200b0195-9815-4b1e-80f0-819878b04055",
+    "Loan Type": "auto",
+    "Requested Amount": 1859807.71,
+    "Interest Rate": 9.99,
+    "Application Date": "2024-08-31",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "474900047516666",
+    "Loan ID": "b5ba1ef1-2ae1-4e07-97ec-ec89dbbf4413",
+    "Loan Type": "personal",
+    "Requested Amount": 664326.48,
+    "Interest Rate": 8.29,
+    "Application Date": "2024-08-28",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "7790529559586644",
+    "Loan ID": "c3d00346-2b40-4af2-8457-8a9f26d8c75d",
+    "Loan Type": "home",
+    "Requested Amount": 3745101.59,
+    "Interest Rate": 13.5,
+    "Application Date": "2024-04-29",
+    "Status": "approved",
+    "Approval Date": "2024-03-31"
+  },
+  {
+    "Account Number": "90658487995022",
+    "Loan ID": "27dd27b6-6dff-4bf3-8b7b-9f501eee51b6",
+    "Loan Type": "auto",
+    "Requested Amount": 3270463.27,
+    "Interest Rate": 10.34,
+    "Application Date": "2024-06-05",
+    "Status": "approved",
+    "Approval Date": "2024-10-01"
+  },
+  {
+    "Account Number": "049371207863252",
+    "Loan ID": "4765af3b-90b8-46a4-84c4-d07bf787c16e",
+    "Loan Type": "personal",
+    "Requested Amount": 1947402.53,
+    "Interest Rate": 11.94,
+    "Application Date": "2024-09-05",
+    "Status": "rejected",
+    "Approval Date": null
+  },
+  {
+    "Account Number": "5193039209519949",
+    "Loan ID": "450da03a-7db2-44a7-a3b1-9f4c62fc9701",
+    "Loan Type": "personal",
+    "Requested Amount": 4533287.54,
+    "Interest Rate": 7.54,
+    "Application Date": "2024-07-09",
+    "Status": "pending",
+    "Approval Date": null
+  }
+]
