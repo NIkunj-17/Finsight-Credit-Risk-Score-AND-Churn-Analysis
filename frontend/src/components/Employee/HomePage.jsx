@@ -8,8 +8,7 @@ import {
 } from "chart.js";
 
 ChartJS.register(ArcElement, Tooltip, Legend);
-import { FaUserCircle, FaChartLine } from "react-icons/fa";
-
+import { FaUserCircle } from "react-icons/fa";
 
 const HomePage = () => {
   const loanData = {
@@ -37,7 +36,7 @@ const HomePage = () => {
 
       {/* Graphical Analysis Section */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {/* Pending Requests Card */}
+        {/* Loan Requests Overview */}
         <div className="bg-white shadow-md p-6 rounded-lg flex flex-col items-center justify-center">
           <h2 className="text-lg font-semibold text-gray-800">Loan Requests Overview</h2>
           <Doughnut data={loanData} />
@@ -48,29 +47,38 @@ const HomePage = () => {
           </div>
         </div>
 
-        {/* Performance Insights Section */}
-<div className="bg-white shadow-md p-6 rounded-lg">
-  <h2 className="text-lg font-semibold text-gray-800 mb-4">Performance Insights</h2>
-  <div className="grid grid-cols-2 gap-4">
-    <div className="p-4 bg-blue-100 rounded-lg">
-      <h3 className="text-sm text-gray-600">Monthly Requests</h3>
-      <p className="text-2xl font-bold text-gray-800">120</p>
-    </div>
-    <div className="p-4 bg-green-100 rounded-lg">
-      <h3 className="text-sm text-gray-600">Approvals</h3>
-      <p className="text-2xl font-bold text-gray-800">85</p>
-    </div>
-    <div className="p-4 bg-red-100 rounded-lg">
-      <h3 className="text-sm text-gray-600">Rejections</h3>
-      <p className="text-2xl font-bold text-gray-800">20</p>
-    </div>
-    <div className="p-4 bg-yellow-100 rounded-lg">
-      <h3 className="text-sm text-gray-600">Pending Requests</h3>
-      <p className="text-2xl font-bold text-gray-800">15</p>
-    </div>
-  </div>
-</div>
+        {/* Performance Insights */}
+        <div className="bg-white shadow-md p-6 rounded-lg mb-12">
+          <h2 className="text-lg font-semibold text-gray-800 mb-4">Performance Insights</h2>
+          <div className="grid grid-cols-2 gap-4 mb-6">
+            <div className="p-4 bg-blue-100 rounded-lg">
+              <h3 className="text-sm text-gray-600">Monthly Requests</h3>
+              <p className="text-2xl font-bold text-gray-800">120</p>
+            </div>
+            <div className="p-4 bg-green-100 rounded-lg">
+              <h3 className="text-sm text-gray-600">Approvals</h3>
+              <p className="text-2xl font-bold text-gray-800">85</p>
+            </div>
+            <div className="p-4 bg-red-100 rounded-lg">
+              <h3 className="text-sm text-gray-600">Rejections</h3>
+              <p className="text-2xl font-bold text-gray-800">20</p>
+            </div>
+            <div className="p-4 bg-yellow-100 rounded-lg">
+              <h3 className="text-sm text-gray-600">Pending Requests</h3>
+              <p className="text-2xl font-bold text-gray-800">15</p>
+            </div>
+          </div>
 
+          {/* Action Buttons */}
+          <div className="flex justify-evenly mt-16">
+            <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-lg text-lg">
+              Risk Score
+            </button>
+            <button className="bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-lg text-lg">
+              Churn Analysis
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );
